@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="152e1df65212df23a4b5dba0e819e63bca93192c">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-c6bc33ea226696a4f681081de4de59b23ee4a2a6.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-b6be371503c06de66e2efddc37aab220d3d706ee.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-8e4c9d6a83aafd737be07e7b75b5d593adb9c15d.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-58ba80dbd118831b49a10dfb448f13ff208cc257.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-a7cd22025cd1529ed421f531f001a449aaaef0f3.jar" />
+    </item>
+    <item
+        jar="/home/vrs/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/okio-1.3.0-741aeb956f2ef74e274ea794d206a63bd8c44adb.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-4d78973e62c01300d430882000c0778879926ca9.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-e564032895326b1346231b24a8aea9fb4c51a462.jar" />
+    </item>
+    <item
+        jar="/home/vrs/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-7ebcd5f09866b15f0759b3dc0c477689ddbe03c4.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Android Studio/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-fc59fa62ad9dd60ad37007b46d42d08cbb26f424.jar" />
+    </item>
+    <item
+        jar="/home/vrs/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-415f63f774fddd50d09cc0e9360045e3d0f25021.jar" />
+    </item>
+    <item
+        jar="/home/vrs/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.7/5599707a3eaad13e889f691b3af78c8c03842195/joda-time-2.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5599707a3eaad13e889f691b3af78c8c03842195">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/joda-time-2.7-a2dfc48348ac7c290f5b06807d144aaf66bc8685.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-d588fff15b61580de9818b9be33557c02c790973.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-a6e1f1118b2b7eeacfebdb4c90ec059b7f08ee7c.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.github.markushi/android-ui/1.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="96436aef5f48b09aca1e0183dfcd7782aa580bd6">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-28e4b396759a329fb3b242b254fcad6ef794b12c.jar" />
+    </item>
+    <item
+        jar="/home/vrs/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/20030203.000550/506fc1d8e200a9e664d8befb991d407ae551d7fe/commons-io-20030203.000550.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="506fc1d8e200a9e664d8befb991d407ae551d7fe">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/commons-io-20030203.000550-264ee1003cbc2802721f12ceff4fd37ec9a5eda5.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-3ab87a1fb92616b133386696facabda01e01eba1.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-1da11b1984ffec460fbbb63e0c3f73ae4a709059.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-dd5e378c435c5848abc2ba90555dca178672362e.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-a7435248267098d54ddec83bf2934ec53e1177f7.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.github.traex.rippleeffect/library/1.2.4/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="92d981b737c081135da787938b9b12d484f42387">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-4d4f483104522da2b9220c5bc4c7df42172b9f90.jar" />
+    </item>
+    <item
+        jar="/home/vrs/.gradle/caches/modules-2/files-2.1/org.twitter4j/twitter4j-core/4.0.2/6555e7c45f5db0006823731b2ddb536d481e11d1/twitter4j-core-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6555e7c45f5db0006823731b2ddb536d481e11d1">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/twitter4j-core-4.0.2-9b374316d772eb073a0d9c052b63368c482a534f.jar" />
+    </item>
+    <item
+        jar="/home/vrs/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/library-2.4.0-e7a7bcf894910929e8b210189079c905f1aecc81.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-4b5d26f83846fc46ed92224c1ddf9b6cec9cbb7f.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-7cc21a790966eacd303755679f39e5d9b0336b17.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-b157bf54948452961af4d9948236b9d1a9c52ea2.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.ikimuhendis/ldrawer/0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d3bec8d72ee2aa86e69f66375c31f2161b7bb324">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-17127302e4bb79139e608213cce474da02fe745a.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-f11d7c51c563ec4e53fb1a14c73ef1419e248e18.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-248a2b7c13c3764b27a7c8c9cc7fbd4e91ee0716.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-f1b49867908d497a150bbd07f080c107251df966.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-8b42a7d65500f16e524c638912bc3844a6c450a0.jar" />
+    </item>
+    <item
+        jar="/home/vrs/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/okhttp-2.3.0-f67417249557a15ba911b99006ee13ef829d6ee6.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-06729640c247be6dc0caedba83ff9bce0ecfc1f5.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-9e7abf847779d30a90d1c1866eaf13c6e29715d1.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-9ed309853b0f4861c5f5ee0e862f19b6cdb47b31.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/in.vrsweb/fyreonlib/1.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e81fe2a011a556ef88a6e7a7e6463f3383d574b">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-fcb20d703a5adab2da4cfdc5d2cbfad153b6823c.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-0c0ad375ac98affca6233d4fc695a595cf2b7c0f.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-94fedcfa18a0999f7754584ce1bec12001c55d2d.jar" />
+    </item>
+    <item
+        jar="/home/vrs/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/gson-2.3.1-eee6f5ad581ae1430658b56a75dc01e998a84d49.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/2.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="052802ed198178e7133de387fbc87d3f2998482a">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/classes-60bb07c5f3e83d449aca2a1b407f8f3bb3f4f1a1.jar" />
+    </item>
+    <item
+        jar="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-4a0a2869231faee30d917445949f83969f1dc2dd.jar" />
+    </item>
+    <item
+        jar="/home/vrs/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.3.0/4f12ec1e1455909e1f0b8530c719c90b2d01745/okhttp-urlconnection-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="04f12ec1e1455909e1f0b8530c719c90b2d01745">
+        <dex dex="/home/vrs/Desktop/Alpesh/Android/Project/ProjectFyron/CarFyron/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.3.0-383660210db5afd53c03be103c328cf888ba754c.jar" />
+    </item>
+
+</items>

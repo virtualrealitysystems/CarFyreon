@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Car Fyron</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="fb_app">1564329560512988</string>
+    <string name="twitter_consumer_key">4PD7tw71nzUGAB81quskmIYga</string>
+    <string name="twitter_consumer_secret">Nxe29YMRi4tv4ojT0FOsuA31Cd4DlbMryGm9ky9k02LGfxc3t0</string>
+    <string name="twitter_auth_token">1727762280-N0DNtu0XBBHPV4Ew20oAGX7HNeDw3o2yZa5klFj</string>
+    <string name="twitter_auth_secret"> EwxnK7LGwwWPnalZWFTH613g9eNmvDXJYIE4tj40Eij2a</string>
+    <string name="twitter_callback">http://javatechig.android.app</string>
+    <string name="twitter_oauth_verifier">oauth_verifier</string>
+
+    <string name="fyreon_widget_api_key"><![CDATA[dcec2a2a6fb1647d1bcf8068475e73b9bf76e7ea7526de8ae2d6269e9feba933]]>
+    </string>
+
+    <!--69797723dc7ad8c92d6e60086034b29e337482f7cc4b6b65bc4462013d7f658b-->
+
+</resources>
