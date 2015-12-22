@@ -1,10 +1,12 @@
 <component name="libraryTable">
   <library name="fyreonlib-1.0.0">
     <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/in.vrsweb/fyreonlib/1.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/in.vrsweb/fyreonlib/1.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/in.vrsweb/fyreonlib/1.0.0/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/in.vrsweb/fyreonlib/1.0.0/45178ed5719b2d7baa249b3da7d2a4cca1b2252d/fyreonlib-1.0.0-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

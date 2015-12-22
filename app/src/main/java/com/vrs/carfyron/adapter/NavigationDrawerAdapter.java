@@ -83,7 +83,7 @@ public class NavigationDrawerAdapter extends RecyclerView.Adapter<NavigationDraw
                                                            case MotionEvent.ACTION_UP:
                                                                if (mNavigationDrawerCallbacks !=
                                                                        null)
-                                                                   git push -u origin --all                                                     mNavigationDrawerCallbacks
+                                                                   mNavigationDrawerCallbacks
                                                                            .onNavigationDrawerItemSelected
                                                                                    (viewholder
                                                                                            .getAdapterPosition());

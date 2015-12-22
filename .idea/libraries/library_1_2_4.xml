@@ -2,9 +2,11 @@
   <library name="library-1.2.4">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.traex.rippleeffect/library/1.2.4/res" />
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.traex.rippleeffect/library/1.2.4/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.traex.rippleeffect/library/1.2.4/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.traex.rippleeffect/library/1.2.4/b84ffcc798c94a2068b9255c276baa5d326ddb23/library-1.2.4-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>
